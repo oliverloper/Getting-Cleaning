@@ -34,4 +34,4 @@ Notes:
 * Used packages: LaF, ffbase, dplyr
 * *To run the script source data needs to be unzipped to the working directory.*
 
-*The linked codebook (and comments integrated into the linked R script) provide additional information about the analysis.
+*The linked codebook (and comments integrated into the linked R script) provide additional information about the analysis.*
