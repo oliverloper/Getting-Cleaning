@@ -32,7 +32,7 @@ Description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+U
 * Adding the label and the set columns to the label column.
 
 ## Extracting means and standard deviations:
-* Using the measurements data frame and going through it twice line by line creating lists as mean and standard deviation values respectively. The means are calculated using R base function **mean()** and standard deviations using R base function **sd()**.
+* Using the measurements data frame and going through it twice line by line creating lists as mean and standard deviation values respectively. The means are calculated using R base package version 3.2.1 function **mean()** and standard deviations using R stats package version 3.2.1 function **sd()**.
 * Merging the subjects, labels, means, and standard deviations by columns
 
 ## Mapping the labels to activities and labeling data:
